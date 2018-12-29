@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{CB4CE8C6-1BDB-4DC7-A4D3-65A1999772F8}") = "zCalc", "zCalc.vbdproj", "{96EF5AD8-AD7E-4CDD-934D-3FB6AC8F7DC5}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{96EF5AD8-AD7E-4CDD-934D-3FB6AC8F7DC5}.Debug.ActiveCfg = Debug|Pocket PC
+		{96EF5AD8-AD7E-4CDD-934D-3FB6AC8F7DC5}.Debug.Build.0 = Debug|Pocket PC
+		{96EF5AD8-AD7E-4CDD-934D-3FB6AC8F7DC5}.Debug.Deploy.0 = Debug|Pocket PC
+		{96EF5AD8-AD7E-4CDD-934D-3FB6AC8F7DC5}.Release.ActiveCfg = Release|Pocket PC
+		{96EF5AD8-AD7E-4CDD-934D-3FB6AC8F7DC5}.Release.Build.0 = Release|Pocket PC
+		{96EF5AD8-AD7E-4CDD-934D-3FB6AC8F7DC5}.Release.Deploy.0 = Release|Pocket PC
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
